@@ -1,6 +1,6 @@
 # ✓ somoskudasai / kudasai (PoC)
 
-> somoskudasai content to markdown
+> [somoskudasai](https://somoskudasai.com/) content to markdown
 
 # 📚 Example
 
